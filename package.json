@@ -2,10 +2,12 @@
   "name": "wetube-clone",
   "version": "1.0.0",
   "description": "The best way to watch a videos.",
-  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Kim-Hyeong-joon/wetube-reloaded.git"
+  },
+  "scripts": {
+    "win": "node index.js"
   },
   "author": "Hyeong-Joon",
   "license": "MIT",
